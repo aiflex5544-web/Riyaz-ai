@@ -1,0 +1,6 @@
+{
+  "name": "Riyaz AI - Personal AI Agent",
+  "description": "Advanced AI-powered personal assistant and text processing agent with Gemini SDK integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
